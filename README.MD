@@ -1,14 +1,10 @@
 ---
 title: "README"
 author: "Christoforos Mangoulidis"
-date: "10 Σεπτεμβρίου 2017"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-##Getting and Cleaning Data Course Project
+## Getting and Cleaning Data Course Project
 
 CodeBook.md describes the how to use all this, variables, the data, and any transformations or work that was performed to clean up the data.
 
