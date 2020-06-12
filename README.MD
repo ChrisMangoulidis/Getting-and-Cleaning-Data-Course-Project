@@ -1,6 +1,6 @@
 ---
 title: "README"
-author: "Christoforos Mangoulidis"
+author: "Chris"
 output: html_document
 ---
 
